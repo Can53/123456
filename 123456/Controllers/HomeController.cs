@@ -20,9 +20,9 @@ namespace _123456.Controllers
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult aaaaa()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "666";
 
             return View();
         }
